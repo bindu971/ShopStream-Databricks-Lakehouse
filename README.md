@@ -352,9 +352,9 @@ The project data is organized under the `shopstream.core` schema.
 ShopStream-Databricks-Lakehouse/
 │
 ├── dashboard.png
-│   ├── job.png
-│   ├── lakeflow.png
-│   └── catalog.png
+├── job.png
+├── lakeflow.png
+├──catalog.png
 │
 ├── 01_bronze_batch_ingestion.ipynb
 ├── 02_silver_layer.ipynb
