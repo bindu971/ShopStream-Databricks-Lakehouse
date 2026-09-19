@@ -316,7 +316,7 @@ The dashboard provides business-level visibility into metrics such as:
 
 ## ShopStream Sales Dashboard
 
-![ShopStream Sales Dashboard](screenshots/dashboard.png)
+![ShopStream Sales Dashboard](dashboard.png)
 
 ---
 
@@ -328,13 +328,13 @@ The batch processing workflow runs in the following order:
 Bronze → Silver → Gold
 ```
 
-![Databricks Job](screenshots/job.png)
+![Databricks Job](job.png)
 
 ---
 
 ## Lakeflow Pipeline
 
-![Lakeflow Pipeline](screenshots/lakeflow.png)
+![Lakeflow Pipeline](lakeflow.png)
 
 ---
 
@@ -342,7 +342,7 @@ Bronze → Silver → Gold
 
 The project data is organized under the `shopstream.core` schema.
 
-![Unity Catalog](screenshots/catalog.png)
+![Unity Catalog](catalog.png)
 
 ---
 
